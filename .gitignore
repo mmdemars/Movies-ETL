@@ -58,6 +58,8 @@ movies_metadata.csv
 ratings_small.csv
 ratings.csv
 wikipedia-movies.json
+config.py
+*.csv
 
 # Translations
 *.mo
