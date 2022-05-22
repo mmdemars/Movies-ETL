@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#things I added
+*.csv
+config.py
+
+
 # C extensions
 *.so
 
@@ -51,7 +56,6 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
-config.py
 
 # Translations
 *.mo
