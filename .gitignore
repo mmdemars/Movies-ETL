@@ -50,16 +50,8 @@ coverage.xml
 *.py,cover
 .hypothesis/
 .pytest_cache/
-credits.csv
-keywords.csv
-links_small.csv
-links.csv
-movies_metadata.csv
-ratings_small.csv
-ratings.csv
-wikipedia-movies.json
+
 config.py
-*.csv
 
 # Translations
 *.mo
